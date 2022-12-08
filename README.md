@@ -1,5 +1,6 @@
 # Music-search-by-humming-Toy-project
 - 2022 - 1 Audio Signal Processing 자유프로젝트 
+- librosa 의 tutorial과 fmp notebook 의 내용을 참고하여 만들었습니다.
 ## 1.	Project Overview
 
 음악에서 후렴구 또는 주 멜로디가 되는 부분만을 분리하여, chromagram으로 저장하였다. 그리고 사용자가 노래를 부르거나 흥얼거리면 어떤 노래를 불렀는지 melody matching을 이용해 찾아주는 시스템을 구축하는 것이 이번 프로젝트의 목표이다.
